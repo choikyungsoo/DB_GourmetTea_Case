@@ -3,6 +3,6 @@
 
 # DB_GourmetTea_Case
 
-![image](https://user-images.githubusercontent.com/81173010/163507992-afb6f12a-76c6-4e77-91ca-97dd6c42a908.png)
+![image](https://user-images.githubusercontent.com/81173010/163508055-24c42c6c-fe4e-4401-ad25-aa255cee2430.png)
 
 https://github.com/choikyungsoo/DB_GourmetTea_Case/files/8493429/Case_GourmetTea.1.pdf
