@@ -3,4 +3,4 @@
 
 # DB_GourmetTea_Case
 
-[Case_GourmetTea (1).pdf](https://github.com/choikyungsoo/DB_GourmetTea_Case/files/8493429/Case_GourmetTea.1.pdf
+https://github.com/choikyungsoo/DB_GourmetTea_Case/files/8493429/Case_GourmetTea.1.pdf
